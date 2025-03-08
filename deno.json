@@ -1,4 +1,10 @@
 {
+
+  "name": "@aria-blib/imagepainter",
+  "version": "0.1.0",
+  "license": "MIT",
+  "exports": "./main.ts",
+
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
